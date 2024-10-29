@@ -1,6 +1,6 @@
 # Felipe Alves
 
-Olá me chamo Felipe Alves, estudo no IFRN atualmente no 3º período de Análise e Desenvolvimento de Sistemas, buscando melhorar e obter novos conhecimentos cada dia mais! Amo música, futebol, meus amigos e minha família.
+Olá me chamo Felipe Alves, estudo no IFRN atualmente no 4º período de Análise e Desenvolvimento de Sistemas, buscando melhorar e obter novos conhecimentos cada dia mais! Amo música, futebol, meus amigos e minha família.
 
 ### Contatos e redes sociais
 
