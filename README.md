@@ -11,8 +11,8 @@ Olá me chamo Felipe Alves, estudo no IFRN atualmente no 4º período de Anális
 
 ### Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lipeeeeeee&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lipeeeeeee&layout=compact&bg_color=000&border_color=30A3DC&title_color=00477D&text_color=49B0FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeAlves14&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeAlves14&layout=compact&bg_color=000&border_color=30A3DC&title_color=00477D&text_color=49B0FF)
 <hr>
 
 ## Minhas tecnologias
@@ -35,17 +35,20 @@ Olá me chamo Felipe Alves, estudo no IFRN atualmente no 4º período de Anális
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+  
 </div>
 
-#### Frameworks
+#### Outras tecnologias
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" width="100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100px">
   
 </div>
