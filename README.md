@@ -10,7 +10,8 @@
 ### Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeAlves14&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00477D&text_color=49B0FF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeAlves14&layout=compact&bg_color=000&border_color=30A3DC&title_color=00477D&text_color=49B0FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlves14&layout=compact&bg_color=000&border_color=30A3DC&title_color=00477D&text_color=49B0FF)
+
 <hr>
 
 ## Minhas tecnologias
